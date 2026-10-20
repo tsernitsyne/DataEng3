@@ -1,0 +1,923 @@
+{
+  "vacancies": 5379,
+  "with_skills": 4377,
+  "salary_count": 2527,
+  "median_salary": 150000.0,
+  "top_frequency": {
+    "1": [
+      {
+        "size": 1,
+        "skills": [
+          "php"
+        ],
+        "frequency": 4031
+      },
+      {
+        "size": 1,
+        "skills": [
+          "mysql"
+        ],
+        "frequency": 2261
+      },
+      {
+        "size": 1,
+        "skills": [
+          "git"
+        ],
+        "frequency": 1809
+      },
+      {
+        "size": 1,
+        "skills": [
+          "laravel"
+        ],
+        "frequency": 1441
+      },
+      {
+        "size": 1,
+        "skills": [
+          "javascript"
+        ],
+        "frequency": 1200
+      },
+      {
+        "size": 1,
+        "skills": [
+          "postgresql"
+        ],
+        "frequency": 1030
+      },
+      {
+        "size": 1,
+        "skills": [
+          "docker"
+        ],
+        "frequency": 964
+      },
+      {
+        "size": 1,
+        "skills": [
+          "symfony"
+        ],
+        "frequency": 919
+      },
+      {
+        "size": 1,
+        "skills": [
+          "html"
+        ],
+        "frequency": 906
+      },
+      {
+        "size": 1,
+        "skills": [
+          "sql"
+        ],
+        "frequency": 861
+      }
+    ],
+    "2": [
+      {
+        "size": 2,
+        "skills": [
+          "mysql",
+          "php"
+        ],
+        "frequency": 2094
+      },
+      {
+        "size": 2,
+        "skills": [
+          "git",
+          "php"
+        ],
+        "frequency": 1686
+      },
+      {
+        "size": 2,
+        "skills": [
+          "laravel",
+          "php"
+        ],
+        "frequency": 1342
+      },
+      {
+        "size": 2,
+        "skills": [
+          "git",
+          "mysql"
+        ],
+        "frequency": 1116
+      },
+      {
+        "size": 2,
+        "skills": [
+          "javascript",
+          "php"
+        ],
+        "frequency": 1101
+      },
+      {
+        "size": 2,
+        "skills": [
+          "php",
+          "postgresql"
+        ],
+        "frequency": 975
+      },
+      {
+        "size": 2,
+        "skills": [
+          "docker",
+          "php"
+        ],
+        "frequency": 907
+      },
+      {
+        "size": 2,
+        "skills": [
+          "php",
+          "symfony"
+        ],
+        "frequency": 872
+      },
+      {
+        "size": 2,
+        "skills": [
+          "html",
+          "php"
+        ],
+        "frequency": 837
+      },
+      {
+        "size": 2,
+        "skills": [
+          "php",
+          "sql"
+        ],
+        "frequency": 800
+      }
+    ],
+    "3": [
+      {
+        "size": 3,
+        "skills": [
+          "git",
+          "mysql",
+          "php"
+        ],
+        "frequency": 1030
+      },
+      {
+        "size": 3,
+        "skills": [
+          "javascript",
+          "mysql",
+          "php"
+        ],
+        "frequency": 717
+      },
+      {
+        "size": 3,
+        "skills": [
+          "laravel",
+          "mysql",
+          "php"
+        ],
+        "frequency": 696
+      },
+      {
+        "size": 3,
+        "skills": [
+          "git",
+          "laravel",
+          "php"
+        ],
+        "frequency": 641
+      },
+      {
+        "size": 3,
+        "skills": [
+          "html",
+          "mysql",
+          "php"
+        ],
+        "frequency": 544
+      },
+      {
+        "size": 3,
+        "skills": [
+          "git",
+          "javascript",
+          "php"
+        ],
+        "frequency": 535
+      },
+      {
+        "size": 3,
+        "skills": [
+          "html",
+          "javascript",
+          "php"
+        ],
+        "frequency": 526
+      },
+      {
+        "size": 3,
+        "skills": [
+          "css",
+          "html",
+          "php"
+        ],
+        "frequency": 493
+      },
+      {
+        "size": 3,
+        "skills": [
+          "git",
+          "php",
+          "ооп"
+        ],
+        "frequency": 481
+      },
+      {
+        "size": 3,
+        "skills": [
+          "docker",
+          "mysql",
+          "php"
+        ],
+        "frequency": 463
+      }
+    ]
+  },
+  "top_effects": {
+    "2_up": [
+      {
+        "size": 2,
+        "skills": [
+          "highload",
+          "mysql"
+        ],
+        "frequency": 42,
+        "salary_count": 23,
+        "median": 350000.0,
+        "base": [
+          "mysql"
+        ],
+        "base_frequency": 2261,
+        "base_salary_count": 1241,
+        "base_median": 150000.0,
+        "difference": 200000.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "solid",
+          "yii2"
+        ],
+        "frequency": 31,
+        "salary_count": 20,
+        "median": 350000.0,
+        "base": [
+          "yii2"
+        ],
+        "base_frequency": 353,
+        "base_salary_count": 188,
+        "base_median": 172500.0,
+        "difference": 177500.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "rabbitmq",
+          "sql"
+        ],
+        "frequency": 93,
+        "salary_count": 41,
+        "median": 262500.0,
+        "base": [
+          "sql"
+        ],
+        "base_frequency": 861,
+        "base_salary_count": 427,
+        "base_median": 135000.0,
+        "difference": 127500.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "rabbitmq",
+          "ооп"
+        ],
+        "frequency": 75,
+        "salary_count": 40,
+        "median": 250000.0,
+        "base": [
+          "ооп"
+        ],
+        "base_frequency": 813,
+        "base_salary_count": 436,
+        "base_median": 132500.0,
+        "difference": 117500.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "solid",
+          "ооп"
+        ],
+        "frequency": 69,
+        "salary_count": 27,
+        "median": 250000.0,
+        "base": [
+          "ооп"
+        ],
+        "base_frequency": 813,
+        "base_salary_count": 436,
+        "base_median": 132500.0,
+        "difference": 117500.0
+      }
+    ],
+    "2_down": [
+      {
+        "size": 2,
+        "skills": [
+          "mvc",
+          "symfony"
+        ],
+        "frequency": 41,
+        "salary_count": 26,
+        "median": 100000.0,
+        "base": [
+          "symfony"
+        ],
+        "base_frequency": 919,
+        "base_salary_count": 359,
+        "base_median": 180000.0,
+        "difference": -80000.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "joomla cms",
+          "php"
+        ],
+        "frequency": 39,
+        "salary_count": 30,
+        "median": 67500.0,
+        "base": [
+          "php"
+        ],
+        "base_frequency": 4031,
+        "base_salary_count": 1997,
+        "base_median": 145000.0,
+        "difference": -77500.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "backend",
+          "rest api"
+        ],
+        "frequency": 30,
+        "salary_count": 23,
+        "median": 100000.0,
+        "base": [
+          "backend"
+        ],
+        "base_frequency": 248,
+        "base_salary_count": 151,
+        "base_median": 175000.0,
+        "difference": -75000.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "mysql",
+          "разработка по"
+        ],
+        "frequency": 41,
+        "salary_count": 23,
+        "median": 75000.0,
+        "base": [
+          "mysql"
+        ],
+        "base_frequency": 2261,
+        "base_salary_count": 1241,
+        "base_median": 150000.0,
+        "difference": -75000.0
+      },
+      {
+        "size": 2,
+        "skills": [
+          "mysql",
+          "phpmyadmin"
+        ],
+        "frequency": 27,
+        "salary_count": 22,
+        "median": 75000.0,
+        "base": [
+          "mysql"
+        ],
+        "base_frequency": 2261,
+        "base_salary_count": 1241,
+        "base_median": 150000.0,
+        "difference": -75000.0
+      }
+    ],
+    "3_up": [
+      {
+        "size": 3,
+        "skills": [
+          "highload",
+          "mysql",
+          "php"
+        ],
+        "frequency": 40,
+        "salary_count": 23,
+        "median": 350000.0,
+        "base": [
+          "mysql",
+          "php"
+        ],
+        "base_frequency": 2094,
+        "base_salary_count": 1151,
+        "base_median": 145000.0,
+        "difference": 205000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "php7",
+          "postgresql",
+          "ооп"
+        ],
+        "frequency": 37,
+        "salary_count": 23,
+        "median": 350000.0,
+        "base": [
+          "postgresql",
+          "ооп"
+        ],
+        "base_frequency": 234,
+        "base_salary_count": 128,
+        "base_median": 150000.0,
+        "difference": 200000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "docker",
+          "solid",
+          "ооп"
+        ],
+        "frequency": 45,
+        "salary_count": 21,
+        "median": 350000.0,
+        "base": [
+          "docker",
+          "ооп"
+        ],
+        "base_frequency": 168,
+        "base_salary_count": 93,
+        "base_median": 150000.0,
+        "difference": 200000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "postgresql",
+          "solid",
+          "ооп"
+        ],
+        "frequency": 38,
+        "salary_count": 21,
+        "median": 350000.0,
+        "base": [
+          "postgresql",
+          "ооп"
+        ],
+        "base_frequency": 234,
+        "base_salary_count": 128,
+        "base_median": 150000.0,
+        "difference": 200000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "mysql",
+          "php7",
+          "yii2"
+        ],
+        "frequency": 27,
+        "salary_count": 23,
+        "median": 350000.0,
+        "base": [
+          "mysql",
+          "yii2"
+        ],
+        "base_frequency": 195,
+        "base_salary_count": 111,
+        "base_median": 175000.0,
+        "difference": 175000.0
+      }
+    ],
+    "3_down": [
+      {
+        "size": 3,
+        "skills": [
+          "mvc",
+          "php",
+          "symfony"
+        ],
+        "frequency": 41,
+        "salary_count": 26,
+        "median": 100000.0,
+        "base": [
+          "php",
+          "symfony"
+        ],
+        "base_frequency": 872,
+        "base_salary_count": 337,
+        "base_median": 180000.0,
+        "difference": -80000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "php",
+          "php5",
+          "postgresql"
+        ],
+        "frequency": 25,
+        "salary_count": 22,
+        "median": 100000.0,
+        "base": [
+          "php",
+          "postgresql"
+        ],
+        "base_frequency": 975,
+        "base_salary_count": 471,
+        "base_median": 180000.0,
+        "difference": -80000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "api",
+          "docker",
+          "rest"
+        ],
+        "frequency": 37,
+        "salary_count": 24,
+        "median": 110000.0,
+        "base": [
+          "api",
+          "docker"
+        ],
+        "base_frequency": 162,
+        "base_salary_count": 93,
+        "base_median": 185000.0,
+        "difference": -75000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "backend",
+          "php",
+          "rest api"
+        ],
+        "frequency": 25,
+        "salary_count": 23,
+        "median": 100000.0,
+        "base": [
+          "backend",
+          "php"
+        ],
+        "base_frequency": 238,
+        "base_salary_count": 150,
+        "base_median": 175000.0,
+        "difference": -75000.0
+      },
+      {
+        "size": 3,
+        "skills": [
+          "docker",
+          "javascript",
+          "postgresql"
+        ],
+        "frequency": 34,
+        "salary_count": 20,
+        "median": 127500.0,
+        "base": [
+          "docker",
+          "postgresql"
+        ],
+        "base_frequency": 407,
+        "base_salary_count": 222,
+        "base_median": 200000.0,
+        "difference": -72500.0
+      }
+    ]
+  },
+  "effects_considered": 2376,
+  "regions": [
+    {
+      "area": "Москва",
+      "vacancies": 2127,
+      "with_skills": 1692,
+      "salary_count": 875,
+      "median": 175000.0,
+      "q25": 130000.0,
+      "q75": 230000.0
+    },
+    {
+      "area": "Санкт-Петербург",
+      "vacancies": 789,
+      "with_skills": 645,
+      "salary_count": 397,
+      "median": 150000.0,
+      "q25": 115000.0,
+      "q75": 200000.0
+    },
+    {
+      "area": "Новосибирск",
+      "vacancies": 215,
+      "with_skills": 168,
+      "salary_count": 109,
+      "median": 140000.0,
+      "q25": 90000.0,
+      "q75": 200000.0
+    }
+  ],
+  "region_top_stacks": {
+    "Москва": {
+      "1": [
+        {
+          "skills": [
+            "php"
+          ],
+          "frequency": 1548,
+          "salary_count": 658,
+          "median": 180000.0
+        },
+        {
+          "skills": [
+            "mysql"
+          ],
+          "frequency": 834,
+          "salary_count": 394,
+          "median": 170000.0
+        },
+        {
+          "skills": [
+            "git"
+          ],
+          "frequency": 671,
+          "salary_count": 321,
+          "median": 170000.0
+        }
+      ],
+      "2": [
+        {
+          "skills": [
+            "mysql",
+            "php"
+          ],
+          "frequency": 749,
+          "salary_count": 345,
+          "median": 170000.0
+        },
+        {
+          "skills": [
+            "git",
+            "php"
+          ],
+          "frequency": 618,
+          "salary_count": 290,
+          "median": 175000.0
+        },
+        {
+          "skills": [
+            "laravel",
+            "php"
+          ],
+          "frequency": 498,
+          "salary_count": 220,
+          "median": 160000.0
+        }
+      ],
+      "3": [
+        {
+          "skills": [
+            "git",
+            "mysql",
+            "php"
+          ],
+          "frequency": 368,
+          "salary_count": 161,
+          "median": 170000.0
+        },
+        {
+          "skills": [
+            "laravel",
+            "mysql",
+            "php"
+          ],
+          "frequency": 250,
+          "salary_count": 113,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "git",
+            "laravel",
+            "php"
+          ],
+          "frequency": 217,
+          "salary_count": 99,
+          "median": 150000.0
+        }
+      ]
+    },
+    "Санкт-Петербург": {
+      "1": [
+        {
+          "skills": [
+            "php"
+          ],
+          "frequency": 602,
+          "salary_count": 335,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "mysql"
+          ],
+          "frequency": 359,
+          "salary_count": 210,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "git"
+          ],
+          "frequency": 263,
+          "salary_count": 153,
+          "median": 150000.0
+        }
+      ],
+      "2": [
+        {
+          "skills": [
+            "mysql",
+            "php"
+          ],
+          "frequency": 344,
+          "salary_count": 203,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "git",
+            "php"
+          ],
+          "frequency": 249,
+          "salary_count": 147,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "laravel",
+            "php"
+          ],
+          "frequency": 222,
+          "salary_count": 133,
+          "median": 150000.0
+        }
+      ],
+      "3": [
+        {
+          "skills": [
+            "git",
+            "mysql",
+            "php"
+          ],
+          "frequency": 165,
+          "salary_count": 91,
+          "median": 145000.0
+        },
+        {
+          "skills": [
+            "laravel",
+            "mysql",
+            "php"
+          ],
+          "frequency": 129,
+          "salary_count": 77,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "javascript",
+            "mysql",
+            "php"
+          ],
+          "frequency": 116,
+          "salary_count": 70,
+          "median": 125000.0
+        }
+      ]
+    },
+    "Новосибирск": {
+      "1": [
+        {
+          "skills": [
+            "php"
+          ],
+          "frequency": 159,
+          "salary_count": 77,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "git"
+          ],
+          "frequency": 76,
+          "salary_count": 38,
+          "median": 130000.0
+        },
+        {
+          "skills": [
+            "mysql"
+          ],
+          "frequency": 71,
+          "salary_count": 40,
+          "median": 140000.0
+        }
+      ],
+      "2": [
+        {
+          "skills": [
+            "git",
+            "php"
+          ],
+          "frequency": 72,
+          "salary_count": 37,
+          "median": 130000.0
+        },
+        {
+          "skills": [
+            "mysql",
+            "php"
+          ],
+          "frequency": 67,
+          "salary_count": 38,
+          "median": 140000.0
+        },
+        {
+          "skills": [
+            "laravel",
+            "php"
+          ],
+          "frequency": 57,
+          "salary_count": 19,
+          "median": 180000.0
+        }
+      ],
+      "3": [
+        {
+          "skills": [
+            "git",
+            "laravel",
+            "php"
+          ],
+          "frequency": 31,
+          "salary_count": 10,
+          "median": 150000.0
+        },
+        {
+          "skills": [
+            "git",
+            "mysql",
+            "php"
+          ],
+          "frequency": 31,
+          "salary_count": 20,
+          "median": 135000.0
+        },
+        {
+          "skills": [
+            "docker",
+            "laravel",
+            "php"
+          ],
+          "frequency": 29,
+          "salary_count": 8,
+          "median": 237500.0
+        }
+      ]
+    }
+  }
+}

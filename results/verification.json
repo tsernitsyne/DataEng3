@@ -1,0 +1,20 @@
+{
+  "selected_rows": 5379,
+  "all_count_rows_equal": true,
+  "warmups": 2,
+  "measured_runs": 6,
+  "summary": {
+    "1": {
+      "different_sets": 953,
+      "occurrences": 31813
+    },
+    "2": {
+      "different_sets": 15914,
+      "occurrences": 135284
+    },
+    "3": {
+      "different_sets": 127455,
+      "occurrences": 471899
+    }
+  }
+}

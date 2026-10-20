@@ -1,0 +1,38 @@
+[
+  {
+    "method": "mapreduce",
+    "run": 1,
+    "seconds": 14.35,
+    "peak_memory_mib": 254.5
+  },
+  {
+    "method": "duckdb_counts",
+    "run": 1,
+    "seconds": 6.542,
+    "peak_memory_mib": 1370.1
+  },
+  {
+    "method": "duckdb_counts",
+    "run": 2,
+    "seconds": 6.744,
+    "peak_memory_mib": 1350.1
+  },
+  {
+    "method": "mapreduce",
+    "run": 2,
+    "seconds": 14.132,
+    "peak_memory_mib": 253.5
+  },
+  {
+    "method": "mapreduce",
+    "run": 3,
+    "seconds": 13.192,
+    "peak_memory_mib": 248.7
+  },
+  {
+    "method": "duckdb_counts",
+    "run": 3,
+    "seconds": 6.452,
+    "peak_memory_mib": 1357.1
+  }
+]
